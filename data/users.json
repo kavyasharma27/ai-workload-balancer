@@ -1,0 +1,50 @@
+[
+  {
+    "user_id": "admin001",
+    "username": "admin",
+    "password": "W0rkl0ad@2026",
+    "role": "admin",
+    "name": "System Administrator",
+    "email": "admin@workloadmanager.io"
+  },
+  {
+    "user_id": "mgr001",
+    "username": "eng_manager",
+    "password": "EngMgr@2026",
+    "role": "manager",
+    "name": "Alex Johnson",
+    "email": "alex.johnson@workloadmanager.io",
+    "department": "Engineering",
+    "manages_employees": ["EMP001", "EMP004", "EMP007", "EMP010", "EMP013", "EMP016", "EMP019", "EMP022", "EMP025", "EMP028"]
+  },
+  {
+    "user_id": "mgr002",
+    "username": "marketing_manager",
+    "password": "MktMgr@2026",
+    "role": "manager",
+    "name": "Sarah Martinez",
+    "email": "sarah.martinez@workloadmanager.io",
+    "department": "Marketing",
+    "manages_employees": ["EMP002", "EMP005", "EMP008", "EMP011", "EMP014", "EMP017", "EMP020", "EMP023", "EMP026", "EMP029"]
+  },
+  {
+    "user_id": "mgr003",
+    "username": "sales_manager",
+    "password": "SalesMgr@2026",
+    "role": "manager",
+    "name": "Michael Chen",
+    "email": "michael.chen@workloadmanager.io",
+    "department": "Sales",
+    "manages_employees": ["EMP003", "EMP006", "EMP009", "EMP012", "EMP015", "EMP018", "EMP021", "EMP024", "EMP027", "EMP030"]
+  },
+  {
+    "user_id": "emp001",
+    "username": "employee",
+    "password": "Emp@2026",
+    "role": "employee",
+    "name": "Demo Employee",
+    "email": "employee@workloadmanager.io",
+    "employee_id": "EMP001",
+    "department": "Engineering"
+  }
+]

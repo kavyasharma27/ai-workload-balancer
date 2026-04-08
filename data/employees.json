@@ -1,0 +1,512 @@
+[
+  {
+    "employee_id": "EMP001",
+    "name": "Employee_001",
+    "department": "Engineering",
+    "role": "Developer",
+    "skill_level": 5,
+    "current_tasks": 9,
+    "hours_per_week": 39,
+    "completion_rate": 0.89,
+    "stress_indicators": {
+      "overtime_hours": 15,
+      "missed_deadlines": 3,
+      "workload_rating": 8
+    },
+    "availability": "Available",
+    "last_updated": "2026-03-28T13:23:34.650786"
+  },
+  {
+    "employee_id": "EMP002",
+    "name": "Employee_002",
+    "department": "Sales",
+    "role": "Manager",
+    "skill_level": 3,
+    "current_tasks": 13,
+    "hours_per_week": 32,
+    "completion_rate": 0.84,
+    "stress_indicators": {
+      "overtime_hours": 12,
+      "missed_deadlines": 1,
+      "workload_rating": 3
+    },
+    "availability": "Overloaded",
+    "last_updated": "2026-04-07T13:23:34.650858"
+  },
+  {
+    "employee_id": "EMP003",
+    "name": "Employee_003",
+    "department": "Finance",
+    "role": "QA",
+    "skill_level": 7,
+    "current_tasks": 12,
+    "hours_per_week": 35,
+    "completion_rate": 0.76,
+    "stress_indicators": {
+      "overtime_hours": 1,
+      "missed_deadlines": 0,
+      "workload_rating": 6
+    },
+    "availability": "Overloaded",
+    "last_updated": "2026-04-06T13:23:34.650872"
+  },
+  {
+    "employee_id": "EMP004",
+    "name": "Employee_004",
+    "department": "Engineering",
+    "role": "Designer",
+    "skill_level": 8,
+    "current_tasks": 14,
+    "hours_per_week": 47,
+    "completion_rate": 0.9,
+    "stress_indicators": {
+      "overtime_hours": 9,
+      "missed_deadlines": 3,
+      "workload_rating": 2
+    },
+    "availability": "Available",
+    "last_updated": "2026-03-27T13:23:34.650883"
+  },
+  {
+    "employee_id": "EMP005",
+    "name": "Employee_005",
+    "department": "Engineering",
+    "role": "QA",
+    "skill_level": 3,
+    "current_tasks": 4,
+    "hours_per_week": 37,
+    "completion_rate": 0.93,
+    "stress_indicators": {
+      "overtime_hours": 6,
+      "missed_deadlines": 0,
+      "workload_rating": 3
+    },
+    "availability": "Overloaded",
+    "last_updated": "2026-04-06T13:23:34.650892"
+  },
+  {
+    "employee_id": "EMP006",
+    "name": "Employee_006",
+    "department": "Sales",
+    "role": "QA",
+    "skill_level": 4,
+    "current_tasks": 8,
+    "hours_per_week": 35,
+    "completion_rate": 0.89,
+    "stress_indicators": {
+      "overtime_hours": 12,
+      "missed_deadlines": 0,
+      "workload_rating": 8
+    },
+    "availability": "Available",
+    "last_updated": "2026-03-21T13:23:34.650900"
+  },
+  {
+    "employee_id": "EMP007",
+    "name": "Employee_007",
+    "department": "HR",
+    "role": "Developer",
+    "skill_level": 7,
+    "current_tasks": 14,
+    "hours_per_week": 51,
+    "completion_rate": 0.79,
+    "stress_indicators": {
+      "overtime_hours": 2,
+      "missed_deadlines": 0,
+      "workload_rating": 1
+    },
+    "availability": "Underutilized",
+    "last_updated": "2026-04-05T13:23:34.650908"
+  },
+  {
+    "employee_id": "EMP008",
+    "name": "Employee_008",
+    "department": "Marketing",
+    "role": "Designer",
+    "skill_level": 6,
+    "current_tasks": 6,
+    "hours_per_week": 46,
+    "completion_rate": 0.76,
+    "stress_indicators": {
+      "overtime_hours": 15,
+      "missed_deadlines": 0,
+      "workload_rating": 2
+    },
+    "availability": "Underutilized",
+    "last_updated": "2026-03-18T13:23:34.650916"
+  },
+  {
+    "employee_id": "EMP009",
+    "name": "Employee_009",
+    "department": "Engineering",
+    "role": "Analyst",
+    "skill_level": 4,
+    "current_tasks": 12,
+    "hours_per_week": 37,
+    "completion_rate": 0.8,
+    "stress_indicators": {
+      "overtime_hours": 15,
+      "missed_deadlines": 3,
+      "workload_rating": 8
+    },
+    "availability": "Available",
+    "last_updated": "2026-04-07T13:23:34.650923"
+  },
+  {
+    "employee_id": "EMP010",
+    "name": "Employee_010",
+    "department": "Marketing",
+    "role": "Analyst",
+    "skill_level": 8,
+    "current_tasks": 10,
+    "hours_per_week": 51,
+    "completion_rate": 0.95,
+    "stress_indicators": {
+      "overtime_hours": 12,
+      "missed_deadlines": 0,
+      "workload_rating": 6
+    },
+    "availability": "Available",
+    "last_updated": "2026-03-27T13:23:34.650931"
+  },
+  {
+    "employee_id": "EMP011",
+    "name": "Employee_011",
+    "department": "Engineering",
+    "role": "QA",
+    "skill_level": 1,
+    "current_tasks": 13,
+    "hours_per_week": 51,
+    "completion_rate": 0.93,
+    "stress_indicators": {
+      "overtime_hours": 13,
+      "missed_deadlines": 2,
+      "workload_rating": 5
+    },
+    "availability": "Underutilized",
+    "last_updated": "2026-03-30T13:23:34.650938"
+  },
+  {
+    "employee_id": "EMP012",
+    "name": "Employee_012",
+    "department": "Sales",
+    "role": "Analyst",
+    "skill_level": 7,
+    "current_tasks": 12,
+    "hours_per_week": 43,
+    "completion_rate": 0.93,
+    "stress_indicators": {
+      "overtime_hours": 2,
+      "missed_deadlines": 1,
+      "workload_rating": 3
+    },
+    "availability": "Overloaded",
+    "last_updated": "2026-03-27T13:23:34.650949"
+  },
+  {
+    "employee_id": "EMP013",
+    "name": "Employee_013",
+    "department": "Marketing",
+    "role": "Developer",
+    "skill_level": 3,
+    "current_tasks": 11,
+    "hours_per_week": 50,
+    "completion_rate": 0.99,
+    "stress_indicators": {
+      "overtime_hours": 11,
+      "missed_deadlines": 0,
+      "workload_rating": 2
+    },
+    "availability": "Available",
+    "last_updated": "2026-03-17T13:23:34.650957"
+  },
+  {
+    "employee_id": "EMP014",
+    "name": "Employee_014",
+    "department": "Marketing",
+    "role": "Analyst",
+    "skill_level": 6,
+    "current_tasks": 3,
+    "hours_per_week": 31,
+    "completion_rate": 0.99,
+    "stress_indicators": {
+      "overtime_hours": 6,
+      "missed_deadlines": 2,
+      "workload_rating": 8
+    },
+    "availability": "Overloaded",
+    "last_updated": "2026-03-28T13:23:34.650964"
+  },
+  {
+    "employee_id": "EMP015",
+    "name": "Employee_015",
+    "department": "Finance",
+    "role": "Manager",
+    "skill_level": 7,
+    "current_tasks": 5,
+    "hours_per_week": 34,
+    "completion_rate": 0.87,
+    "stress_indicators": {
+      "overtime_hours": 7,
+      "missed_deadlines": 2,
+      "workload_rating": 2
+    },
+    "availability": "Available",
+    "last_updated": "2026-04-04T13:23:34.650972"
+  },
+  {
+    "employee_id": "EMP016",
+    "name": "Employee_016",
+    "department": "Marketing",
+    "role": "Designer",
+    "skill_level": 10,
+    "current_tasks": 3,
+    "hours_per_week": 32,
+    "completion_rate": 0.78,
+    "stress_indicators": {
+      "overtime_hours": 8,
+      "missed_deadlines": 1,
+      "workload_rating": 5
+    },
+    "availability": "Underutilized",
+    "last_updated": "2026-03-11T13:23:34.650983"
+  },
+  {
+    "employee_id": "EMP017",
+    "name": "Employee_017",
+    "department": "HR",
+    "role": "Analyst",
+    "skill_level": 8,
+    "current_tasks": 5,
+    "hours_per_week": 35,
+    "completion_rate": 0.86,
+    "stress_indicators": {
+      "overtime_hours": 11,
+      "missed_deadlines": 3,
+      "workload_rating": 4
+    },
+    "availability": "Available",
+    "last_updated": "2026-03-19T13:23:34.650990"
+  },
+  {
+    "employee_id": "EMP018",
+    "name": "Employee_018",
+    "department": "HR",
+    "role": "Manager",
+    "skill_level": 7,
+    "current_tasks": 5,
+    "hours_per_week": 49,
+    "completion_rate": 0.71,
+    "stress_indicators": {
+      "overtime_hours": 1,
+      "missed_deadlines": 0,
+      "workload_rating": 9
+    },
+    "availability": "Available",
+    "last_updated": "2026-03-28T13:23:34.650999"
+  },
+  {
+    "employee_id": "EMP019",
+    "name": "Employee_019",
+    "department": "Finance",
+    "role": "Designer",
+    "skill_level": 5,
+    "current_tasks": 11,
+    "hours_per_week": 44,
+    "completion_rate": 0.88,
+    "stress_indicators": {
+      "overtime_hours": 0,
+      "missed_deadlines": 1,
+      "workload_rating": 1
+    },
+    "availability": "Overloaded",
+    "last_updated": "2026-04-08T13:23:34.651007"
+  },
+  {
+    "employee_id": "EMP020",
+    "name": "Employee_020",
+    "department": "Engineering",
+    "role": "Designer",
+    "skill_level": 8,
+    "current_tasks": 8,
+    "hours_per_week": 47,
+    "completion_rate": 0.81,
+    "stress_indicators": {
+      "overtime_hours": 10,
+      "missed_deadlines": 1,
+      "workload_rating": 8
+    },
+    "availability": "Underutilized",
+    "last_updated": "2026-04-06T13:23:34.651015"
+  },
+  {
+    "employee_id": "EMP021",
+    "name": "Employee_021",
+    "department": "Finance",
+    "role": "Analyst",
+    "skill_level": 2,
+    "current_tasks": 8,
+    "hours_per_week": 43,
+    "completion_rate": 0.94,
+    "stress_indicators": {
+      "overtime_hours": 14,
+      "missed_deadlines": 3,
+      "workload_rating": 7
+    },
+    "availability": "Overloaded",
+    "last_updated": "2026-03-13T13:23:34.651025"
+  },
+  {
+    "employee_id": "EMP022",
+    "name": "Employee_022",
+    "department": "HR",
+    "role": "Manager",
+    "skill_level": 8,
+    "current_tasks": 12,
+    "hours_per_week": 35,
+    "completion_rate": 0.76,
+    "stress_indicators": {
+      "overtime_hours": 3,
+      "missed_deadlines": 0,
+      "workload_rating": 5
+    },
+    "availability": "Overloaded",
+    "last_updated": "2026-03-11T13:23:34.651036"
+  },
+  {
+    "employee_id": "EMP023",
+    "name": "Employee_023",
+    "department": "Finance",
+    "role": "QA",
+    "skill_level": 8,
+    "current_tasks": 12,
+    "hours_per_week": 30,
+    "completion_rate": 0.92,
+    "stress_indicators": {
+      "overtime_hours": 13,
+      "missed_deadlines": 0,
+      "workload_rating": 9
+    },
+    "availability": "Overloaded",
+    "last_updated": "2026-03-29T13:23:34.651044"
+  },
+  {
+    "employee_id": "EMP024",
+    "name": "Employee_024",
+    "department": "Engineering",
+    "role": "Developer",
+    "skill_level": 5,
+    "current_tasks": 15,
+    "hours_per_week": 47,
+    "completion_rate": 1.0,
+    "stress_indicators": {
+      "overtime_hours": 5,
+      "missed_deadlines": 1,
+      "workload_rating": 7
+    },
+    "availability": "Available",
+    "last_updated": "2026-03-25T13:23:34.651052"
+  },
+  {
+    "employee_id": "EMP025",
+    "name": "Employee_025",
+    "department": "Finance",
+    "role": "QA",
+    "skill_level": 1,
+    "current_tasks": 3,
+    "hours_per_week": 40,
+    "completion_rate": 0.81,
+    "stress_indicators": {
+      "overtime_hours": 1,
+      "missed_deadlines": 0,
+      "workload_rating": 8
+    },
+    "availability": "Overloaded",
+    "last_updated": "2026-03-20T13:23:34.651059"
+  },
+  {
+    "employee_id": "EMP026",
+    "name": "Employee_026",
+    "department": "Finance",
+    "role": "QA",
+    "skill_level": 4,
+    "current_tasks": 4,
+    "hours_per_week": 55,
+    "completion_rate": 0.84,
+    "stress_indicators": {
+      "overtime_hours": 15,
+      "missed_deadlines": 0,
+      "workload_rating": 7
+    },
+    "availability": "Available",
+    "last_updated": "2026-03-11T13:23:34.651067"
+  },
+  {
+    "employee_id": "EMP027",
+    "name": "Employee_027",
+    "department": "Sales",
+    "role": "Manager",
+    "skill_level": 1,
+    "current_tasks": 7,
+    "hours_per_week": 39,
+    "completion_rate": 0.96,
+    "stress_indicators": {
+      "overtime_hours": 1,
+      "missed_deadlines": 3,
+      "workload_rating": 3
+    },
+    "availability": "Underutilized",
+    "last_updated": "2026-03-13T13:23:34.651075"
+  },
+  {
+    "employee_id": "EMP028",
+    "name": "Employee_028",
+    "department": "Marketing",
+    "role": "Designer",
+    "skill_level": 6,
+    "current_tasks": 14,
+    "hours_per_week": 46,
+    "completion_rate": 0.83,
+    "stress_indicators": {
+      "overtime_hours": 11,
+      "missed_deadlines": 0,
+      "workload_rating": 4
+    },
+    "availability": "Overloaded",
+    "last_updated": "2026-03-24T13:23:34.651082"
+  },
+  {
+    "employee_id": "EMP029",
+    "name": "Employee_029",
+    "department": "Engineering",
+    "role": "Manager",
+    "skill_level": 8,
+    "current_tasks": 5,
+    "hours_per_week": 40,
+    "completion_rate": 0.74,
+    "stress_indicators": {
+      "overtime_hours": 6,
+      "missed_deadlines": 0,
+      "workload_rating": 1
+    },
+    "availability": "Underutilized",
+    "last_updated": "2026-04-05T13:23:34.651090"
+  },
+  {
+    "employee_id": "EMP030",
+    "name": "Employee_030",
+    "department": "Finance",
+    "role": "Analyst",
+    "skill_level": 6,
+    "current_tasks": 12,
+    "hours_per_week": 39,
+    "completion_rate": 0.87,
+    "stress_indicators": {
+      "overtime_hours": 14,
+      "missed_deadlines": 2,
+      "workload_rating": 9
+    },
+    "availability": "Available",
+    "last_updated": "2026-03-22T13:23:34.651097"
+  }
+]
